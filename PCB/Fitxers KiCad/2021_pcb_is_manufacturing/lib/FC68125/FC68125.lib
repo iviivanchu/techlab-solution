@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# FC68125
+#
+DEF FC68125 J 0 40 Y N 1 L N
+F0 "J" -301 201 50 H V L BNN
+F1 "FC68125" -301 -402 50 H V L BNN
+F2 "CLIFF_FC68125" 0 0 50 H I L BNN
+F3 "Manufacturer Recommendations" 0 0 50 H I L BNN
+F4 "" 0 0 50 H I L BNN
+F5 "CLIFF" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 100 100 -75 100 N
+P 2 0 0 6 -75 100 -125 50 N
+P 2 0 0 6 -125 50 -175 100 N
+P 2 0 0 6 100 -100 75 -100 N
+P 2 0 0 6 75 -100 25 -50 N
+P 2 0 0 6 25 -50 -25 -100 N
+P 2 0 0 6 -109 -2 -71 -40 N
+P 2 0 0 6 -31 0 -71 -40 N
+P 2 0 0 6 100 0 -30 0 N
+P 2 0 0 6 100 -200 -250 -200 N
+P 2 0 0 6 -250 -200 -250 -75 N
+P 2 0 0 6 -250 -75 -225 -75 N
+P 2 0 0 6 -225 -75 -225 100 N
+P 2 0 0 6 -225 100 -275 100 N
+P 2 0 0 6 -275 100 -275 -75 N
+P 2 0 0 6 -275 -75 -250 -75 N
+X 6SR 6 300 100 200 L 40 40 0 0 P 
+X 2R 2 300 0 200 L 40 40 0 0 P 
+X 1S 1 300 -200 200 L 40 40 0 0 P 
+X 3T 3.1 300 -100 200 L 40 40 0 0 P 
+X 3T 3.2 300 -100 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri ${KIPRJMOD}/lib/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name IntSis)(type Legacy)(uri /home/arnau/Escriptori/2021_pcb_is/IntSis.lib)(options "")(descr ""))
+  (lib (name FC68125)(type Legacy)(uri ${KIPRJMOD}/lib/FC68125/FC68125.lib)(options "")(descr ""))
+  (lib (name 2021_pcb_is-rescue)(type Legacy)(uri ${KIPRJMOD}/2021_pcb_is-rescue.lib)(options "")(descr ""))
+)

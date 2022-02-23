@@ -1,0 +1,39 @@
+Title,
+Revision,
+Date,
+Generated,divendres, 30 de juliol de 2021, 13:51:03 CEST
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,33
+Total Unique Parts,18
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,Field5,MANUFACTURER,PARTREV,
+BZ1 ,1,Buzzer,Buzzer_Beeper:Buzzer_15x7.5RM7.6,~, , , 
+C0 C1 C40 C41 ,4,22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+D0 ,1,LED_BGRA,LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW,~, , , 
+D30 ,1,1N_4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,~, , , 
+H1 H2 H3 H4 ,4,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad,~, , , 
+J30 ,1,-,TerminalBlock_RND:TerminalBlock_RND_205-00013_1x03_P5.00mm_Horizontal,~, , , 
+J40 ,1,FC68125,is:CLIFF_FC68125,Manufacturer Recommendations,CLIFF, , 
+KA0 ,1,FINDER-30.22,Relay_THT:Relay_DPDT_Finder_30.22,http://gfinder.findernet.com/assets/Series/354/S30EN.pdf, , , 
+Q30 ,1,BSH108,Package_TO_SOT_SMD:SOT-23,~, , , 
+R1 R2 R3 ,3,330R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+R10 R11 ,2,NM,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+R12 R13 R14 R20 R21 R22 ,6,1K,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+R30 ,1,47K,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+R40 ,1,33R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+R41 R42 ,2,10K,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~, , , 
+U1 ,1,ESP32-DEVKITC-32D,ESP32-DEVKITC-32D:MODULE_ESP32-DEVKITC-32D,, ,Espressif Systems,4
+U10 ,1,SSD1306,is:SSD1306_2H,, , , 
+U20 ,1,PN532,is:PN532_N3D_2,, , , 
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated divendres, 30 de juliol de 2021, 13:51:03 CEST
